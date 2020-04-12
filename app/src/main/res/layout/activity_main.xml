@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#17ACF0"
+    android:textAlignment="center"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/button"
+
+        android:layout_width="375dp"
+        android:layout_height="126dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="19dp"
+        android:layout_marginEnd="17dp"
+        android:layout_marginBottom="250dp"
+        android:background="#ffca28"
+        android:text="Let's Play Quiz "
+        android:textColor="#FF5733"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="398dp"
+        android:layout_height="109dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="2dp"
+        android:textColor="#B2FF59"
+        android:textStyle="italic"
+        android:layout_marginBottom="4dp"
+        android:text="Developed by: \n Shivant pandey \n 7277921877 \n shivant47@gmail.com"
+        android:textAlignment="center"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="169dp"
+        android:layout_height="131dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="109dp"
+        android:layout_marginBottom="116dp"
+        app:srcCompat="@drawable/shivant" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="405dp"
+        android:layout_height="85dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="6dp"
+        android:layout_marginBottom="576dp"
+        android:text="Quizup"
+        android:textStyle="bold"
+        android:background="#EA80FC"
+        android:textAlignment="center"
+        android:textColor="#FF5733 "
+        android:textSize="45dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="198dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginBottom="376dp"
+        app:srcCompat="@drawable/test" />
+
+</RelativeLayout>

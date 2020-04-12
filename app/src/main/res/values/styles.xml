@@ -1,0 +1,43 @@
+<resources>
+
+
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light">
+        <item name="windowActionBar">false</item>
+
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    -<style parent="Widget.AppCompat.Button.Colored" name="buttonStyle">
+
+    <item name="android:textSize">20sp</item>
+
+    <item name="android:textStyle">bold</item>
+
+    <item name="android:textColor">@color/colorText</item>
+
+    <item name="android:layout_margin">@dimen/button_spacing_margin</item>
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
