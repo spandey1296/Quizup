@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "490652844917",
+    "firebase_url": "https://cu-nss.firebaseio.com",
+    "project_id": "cu-nss",
+    "storage_bucket": "cu-nss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490652844917:android:0d9ade02c8a00cd0c7c93c",
+        "android_client_info": {
+          "package_name": "com.example.quizup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490652844917-p3fqqm6o67lnfaca15lnvlifq8427rsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizup",
+            "certificate_hash": "3455afd89d25f50d846a6955a6cc912c57ecfe47"
+          }
+        },
+        {
+          "client_id": "490652844917-grj5g2sqnum4gb10ieho57fagruusmvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvP80VlRKonzfxQ4AzUhU9UNooXOljnTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490652844917-grj5g2sqnum4gb10ieho57fagruusmvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

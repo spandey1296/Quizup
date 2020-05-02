@@ -35,7 +35,8 @@
     <string name="question_12">No piece of square dry paper can be folded in half more than 7 times.</string>
 
     <string name="question_13">Chocolate affects a dog\'s heart and nervous system; a few ounces are enough to kill a small dog.</string>
-
+    <string name="default_notification_channel_id">Notification</string>
+    <string name="fcm_message">Notification</string>
 
 
 
